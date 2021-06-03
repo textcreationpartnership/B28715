@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons for the bill for regulating the six clerks office in Chancery, with an answer to the six clerks case.</title>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28715</idno><idno type="EEBO-CITATION">99883317</idno>
+  <idno type="VID">201729</idno>
+  <idno type="EEBO-PROQUEST">2240882123</idno>
+  
+            <idno type="STC">Wing R512D</idno>
+            <idno type="STC">Interim Tract Supplement Guide 190.g.12[159]</idno>
+            <idno type="STC">ESTC R203494</idno>
+            <idno type="PROQUEST">ocm99883317</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99883317e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28715)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201729)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C26:3[159])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons for the bill for regulating the six clerks office in Chancery, with an answer to the six clerks case.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>between 1668 and 1700]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament. --  Early works to 1800.</term>
+               <term type="corporate_name">England and Wales. --  Court of Chancery. --  Early works to 1800.</term>
+               <term type="topical_term">Court congestion and delay --  England --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:201729:1"/>
+            <head>Reasons for the Bill for regulating the Six Clerks Office in Chancery, with an Answer to the Six Clerks Case.</head>
+            <p>THe Bill,
+<list>
+                  <item>1. Complains of 3 Mischiefs
+<list>
+                        <item>1. Disorders.</item>
+                        <item>2. Delays.</item>
+                        <item>3. Unnecessary Expence.</item>
+                     </list> The Cause assigned is
+<list>
+                        <item>The want of a competent num<g ref="char:EOLhyphen"/>ber of experienced Attorneys to dispatch the business,</item>
+                     </list> which will best appear on examination.</item>
+                  <item>2. The Remedy provided is
+<list>
+                        <item>1. The increase of the number of Attorneys proportionable to the business, and in that their quali<g ref="char:EOLhyphen"/>fications of experienced &amp; able Clerks bred up in the Office as they anciently were and ought to be, <hi>prout patet per Stat.</hi> 12. <hi>R: c.</hi> 2. 12 <hi>&amp;</hi> 14, <hi>&amp;</hi> 15. <hi>H.</hi> 8.</item>
+                        <item>2. The abatement of Fees,
+<list>
+                              <item>1. In Copies from 8 d. to 4 d per fol.</item>
+                              <item>2. In tak ng away the ingrossed Bill annexed to Commissions, being 6 d. per fol.</item>
+                           </list>
+                        </item>
+                     </list> And neither of these can in themselves be prejudicial to the Subject, but are of great advantage.</item>
+               </list>
+            </p>
+            <p>The Six Clerks Reasons or Objections against the Bill are,</p>
+            <p n="1">1. <hi>That they are</hi> antient (1) Officers, <hi>and have been</hi> time out of (2) mind, <hi>in the same Condition as now they are, and have been</hi> incorporated (3) by Act of Parlia<g ref="char:EOLhyphen"/>ment, <hi>and several</hi> Letters (4) Patents.</p>
+            <p>
+               <label>
+                  <hi>Answ.</hi> 1.</label> They are, and anciently were but Clerks or Attorneys, <hi>propriis manibus scribentes,</hi> under the Mr. of the Rolls (the Mr. of the Office) in whose name all Writs pass, and as such receive the Attorneys Fee of 3 <hi>s.</hi> 4 <hi>d.</hi>
+            </p>
+            <p n="2">2. This is denyed, and the contrary will be proved in several instances: or, if they were, it makes the matter more Parliamentary; and if a Grievance, 'tis conceived ought to be remedied.</p>
+            <p n="3">3. They are not incorporated as Attorneys: 31 <hi>H.</hi> 8. there is an Act, That for having the House <hi>[ONLY]</hi> where the Office is kept, they are Incorporated: but that shews that the Parliament thought not fit to incorporate them to any other end; for the very reason ('tis not unlikely) now alledged for increase. Besides, in 31 <hi>H.</hi> 8. six Attorneys were then more competent for the business then 60 now.</p>
+            <p n="4">4. 'Tis true, that 16 <hi>Eliz.</hi> they and the 3 Clerks of the Petty-bagg are incorporated as Clerks of the Inrolments, <hi>&amp;c.</hi> with which this Bill does not intermed<g ref="char:EOLhyphen"/>dle. And 11 <hi>Car.</hi> 1. they got a Patent to Incorporate them as Attorneys (to prevent the increase of their number) that no more should be made then six: with power to make By-laws to divide the Clients amongst them by the Letters of the Alphabet (as it was by the late Lord Chancellors Ordinance) and with a Grant of some incroached Fees, and such like, which being in the nature of a Monopoly, and against Law, Sir <hi>Dudly Diggs</hi> then Mr. of the Rolls, finding himself grieved thereby, and that the same incroached on other Offices, on Petition to the King and Councel 3 <hi>December</hi> 1637. got the Legality thereof referred to the Judges. After several Debates, that Patent was delivered up, and never since observed by themselves or others; and if now insisted on, 'tis conceived more fit to be examined in Parliament.</p>
+            <p>
+               <label>Object. 2.</label>
+               <hi>That the Six Clerks have always had a</hi> (1) Freehold <hi>in their Offices for their Lives; and their</hi> Fees have been (2) time out of mind. <hi>But the Clerks have had no other Interest, then as</hi> (3) Servants <hi>to them.</hi>
+            </p>
+            <p>
+               <label>
+                  <hi>Answ.</hi> 1.</label> That as they are Clerks of the Inrolments, Comptrollers or Supervisors of the Hanaper, Riding-Clerks, <hi>&amp;c.</hi> or any thing that doth or can go in di<g ref="char:EOLhyphen"/>vident amongst them, their Interest in Places or Fees are not questioned; nor does this Bill at all intermeddle therewith; but only as they are Attorneys 'twixt Party and Party, which cannot be executed by Deputy, or go in Divident, nor on any pretence be termed a Freehold. And what if <hi>de facto</hi> they have what is alleadged? yet, if a general Grievance (they being but Ministers <hi>pro bono publico</hi>) it's the more proper and necessary to be remedied by Parliament. (Better a particular Mischief, then a general Inconvenience.)</p>
+            <p n="2">2. Their Fees were never confirmed, nor yet time out of mind, as now they are.</p>
+            <p n="3">3. If the Clerks be but as Servants (which is denied) 'tis the greater Reason for redress. 'Tis agreed they do (and indeed only can do) the business. But what obligation is on them by Oath or Fee for doing thereof? Or what certainty hath the Client, when they may (as the six Clerks assume, and have lately put in practice) be turned off at pleasure?</p>
+            <p>But these (as many other of the Particulars objected) amount but to the begging of the Question, or for want of matter to the framing Objections from the practice of such things as are complained of.</p>
+            <p>
+               <label>Object. 3.</label>
+               <hi>No Crime hath been pretended or objected against any of the Six Clerks in any of their Offices.</hi>
+            </p>
+            <p>
+               <label>Answ.</label> The most proper season for this will be, (as is humbly conceived) on examination.</p>
+            <p>
+               <label>Object. 4.</label>
+               <hi>The imployment of the Six Clerks consists as well in the immediate</hi> service (1) of the King, <hi>as in business between</hi> party (2) and party.</p>
+            <p>
+               <label>Answ.</label> What concerns the King, is in the Inrolments, Riding-Clerks, <hi>&amp;c.</hi> with which this Bill doth not meddle; And extends onely to redress the disorders, <hi>&amp;c.</hi> in causes between party and party: for which no six Persons can be sufficient, being an imployment that cannot be executed by Deputy.</p>
+            <p>
+               <label>Object. 5.</label>
+               <hi>That the Six Clerks onely, and not the Ʋnder-clerks, are in Law esteemed the</hi> Clerks (1) in Court, <hi>for managing the business; and are onely</hi> answerable (2) to the <hi>Suitor for miscarriages. It is therefore requisite, that Persons of Estate and Quality should be in those Offices.</hi>
+            </p>
+            <p>
+               <label>
+                  <hi>Answ.</hi> 1.</label> The Clerks do really manage the business, and the Court and Clyentlooks on them, and calls them Clerks in Court; and if they be not so in Law, it is the more reason they should be so. If there be onely six that by Law are bound to manage the business, and those six (as it is evident) cannot do it; it is a great Argument why the Clyent shall have a greater choice.</p>
+            <p n="2">2. They will not grant that they should forfeit their places for the fault of the Under-clerk. The Attorney, whose livelyhood depends on his imployment, lays the same to pawn for every the least miscarriage; for which he is lyable to be turned out by the Court: whereas that which others pretend to, serves but the better to protect them against any whom they shall injure, (and where they are but as Deputies accomptable for the profit (as some of them are) under a small Salary, Who shall answer for them?)</p>
+            <p>
+               <label>Object. 6.</label>
+               <hi>Much of the Office of a six Clerk hath been executed in person.</hi>
+            </p>
+            <p>
+               <label>Answ.</label> The more reason for increase.</p>
+            <p>
+               <label>Object. 7.</label>
+               <hi>The Ʋnder-clerks led by the same</hi> levelling Principles <hi>in</hi> 1654, <hi>procured an Ordinance from</hi> Cromwel, <hi>for making them Attornies; but the</hi> pretended Parlia<g ref="char:EOLhyphen"/>ment <hi>in the year</hi> 1656 <hi>set it aside.</hi>
+            </p>
+            <p>
+               <label>Answ.</label> It is humbly conceived, it is no more levelling in Chancery to make an Attorney of an ancient experienced Clerk of 40 or 50 years standing, then it is in other Courts, who walk by that rule; and that it is the greater fault that six Gentlemen never brought up in the imployment (as anciently they were and ought to be) should leap over so many ancient Clerks heads, to the damage of the King and his People; and confine the subject to so small a number, when publique good and the business of the Court requires a greater. It is denyed the Clerks procured the Ordinance: and the proceedings of a pretended Parlia<g ref="char:EOLhyphen"/>ment, no rule for a legal Parliament.</p>
+            <p>
+               <label>Object. 8.</label>
+               <hi>Abatement of Fees is the promoters avarice.</hi>
+            </p>
+            <p>
+               <label>Answ.</label> The endeavouring a redress of a publique evil, whereof the Wisdom of the Nation in Parliament is to be the Judge, should not be branded with igno<g ref="char:EOLhyphen"/>minious and reproachful terms; and if the abatement of Fees amongst many be styled avarice, what name deserves a Pleader for continuance of exorbitant Fees, and Fees for things useless to the People, and that amongst so few as the Objectors are!</p>
+            <p>
+               <label>Object. 9.</label>
+               <hi>The multiplication of Officers,</hi> &amp;c. <hi>that shall have the keeping of Records, will put the Subject to great charge,</hi> &amp;c.</p>
+            <p>
+               <label>
+                  <hi>Answ.</hi> 1.</label> The Master of the Rolls is Onely Officer and Record-keeper: The Six Clerks usurping the name of Officers, and making so many Offices, hath made the confusion they are in: It is conceived they will be better kept (as in other Courts) in one Treasury, or Record-house, under proper Alphabets, then six.</p>
+            <p>
+               <label>Object. 10.</label>
+               <hi>That when business was more then now, it was dispatched by</hi> the (1) Six Clerks, <hi>with their Ʋnder-clerks acting under them. And there can be no ground for this pretence, but that the Ʋnder-clerks would now act as Masters, without any Superiour to inspect their pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ceedings, by whose misdemeanors alone all delays and disorders have been occasioned.</hi>
+            </p>
+            <p>
+               <label>
+                  <hi>Answ.</hi> 1.</label> No six can advise the Clyents, answer their Post-letters, manage their Causes, or draw special Writs or Decr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es, or examine the same or Co<g ref="char:EOLhyphen"/>py as they ought: And to commit the doing thereof to others, who lye under no obligation of Oath or Fee, is the thing complained of: nor in case of Inter<g ref="char:EOLhyphen"/>pleaders, or the like, where the Cause depends on nine or ten several and distinct Interests (as it often falls out, and there are such now depending) can six At<g ref="char:EOLhyphen"/>tornies be sufficient: for the Defendants interests being opposite one to another, some of the six Attornies must of necessity be for and against his Clyent; which he cannot be in the same Cause, and for the same matter, if he observe his Oath.</p>
+            <p n="2">2. The principal Question is not, whether the Clerks shall be made Attorneys; but whether the number shall be increased, what the number shall be, and who, is left to be considered.</p>
+            <p n="3">3. The Master of the Rolls is the onely Superiour, and can inspect them as well as his Majesties principal Officers in other Courts do a greater number.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
